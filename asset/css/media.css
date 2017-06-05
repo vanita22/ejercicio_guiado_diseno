@@ -1,0 +1,30 @@
+body{
+	font-family: 'Montserrat', sans-serif;
+	background: #F06E6E;
+	color: #6B0707; 
+}
+
+img{
+	width: 100%;
+	border: 6px solid #BD023B;
+	padding: 2%;
+}
+
+#centro_civico{
+	padding: 5%;
+}
+
+.titulo{
+	text-align: center;
+	margin: 3%;
+}
+
+.civico h2{
+	text-align: center;
+	margin: 2%;
+}
+
+.civico p{
+	font-size: 20px;
+	padding: 5%;
+}
